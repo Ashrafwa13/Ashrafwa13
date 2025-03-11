@@ -8,7 +8,7 @@ I'm a software developer with a strong passion for creating visually appealing a
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript & React.
-- 📚 I’m currently learning about Frontend and Backend technologies.
+- 📚 I’m currently learning about Frontend.
 - 🎯 Future Goals: Learn more web technologies - Create awesome websites.
   
 - 📫 Social links
